@@ -1,4 +1,4 @@
-# Technical Writing Guide (Beginner-Friendly)
+# Technical Writing Documentation
 Technical writing is the practice of creating clear, structured, and user focused documentation that explains complex technical information in a simple way.
 This repository is designed as an guide for beginners who want to understand what technical writing is, what technical writers do, and how technical documentation is done using real world products.
 
